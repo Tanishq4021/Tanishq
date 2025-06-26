@@ -6,7 +6,7 @@ Malware Hunter • Ethical Hacker • Digital Forensics Explorer
 
 ---
 
-🔒 **Focus Areas:** 
+🔒 **Focus Areas:**
 - Threat Analysis & Detection  
 - Secure System Design  
 - Cyber Defense  
