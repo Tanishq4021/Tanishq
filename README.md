@@ -10,7 +10,7 @@ Malware Hunter • Ethical Hacker • Digital Forensics Explorer
 - Threat Analysis & Detection  
 - Secure System Design  
 - Cyber Defense  
-- Intrusion Detection Logs & Tools  
+- Intrusion Detection Logs & Tools 
 
 📚 **Currently:**  
 - Final Year B.Tech CSE @ Amity Mumbai  
